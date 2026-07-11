@@ -58,7 +58,7 @@ EC運営向け価格比較・利益分析ツール
 - Excelレポート自動生成
 
 Repository:
-https://github.com/a2e-works/EC-Profit-Analyzer
+[EC-Profit-Analyzer](https://github.com/a2e-works/EC-Profit-Analyzer)
 
 ---
 
@@ -70,7 +70,7 @@ Status: Development
 
 ---
 
-### Spray Mixture Calculator
+### Agri-Spray-Management-Tool
 
 農薬散布作業向け希釈計算ツール
 
